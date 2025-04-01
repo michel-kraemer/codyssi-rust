@@ -1,0 +1,8 @@
+[package]
+name = "day01"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ordered-float = "5.0.0"
+rustc-hash = "2.1.1"
